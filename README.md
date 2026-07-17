@@ -1,5 +1,18 @@
 # 💫 About Me:
-i'm currently third year.<br>i'm looking for collabrations and open to new paths<br>i'm vibe coder<br>i'm good at using ai tools.<br>i love product designing.<br>i made quite some projects using ai tools
+# Hi there, I'm Raghu 👋
+
+🎓 Third-year Computer Science student passionate about building AI-powered products.
+
+🚀 I'm a **vibe coder** who loves transforming ideas into functional products using modern AI tools and rapid development workflows.
+
+🎨 Passionate about **product design**, intuitive user experiences, and shipping projects that solve real problems.
+
+🛠️ I've built multiple AI-assisted projects, exploring everything from web applications to intelligent automation.
+
+🤝 I'm always open to collaborations, hackathons, open-source contributions, and exciting opportunities to build something meaningful together.
+
+> **Building. Learning. Experimenting. Shipping.**
+
 
 
 ## 🌐 Socials:
