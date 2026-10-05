@@ -41,7 +41,7 @@ B.Tech CSE (AI & ML) student at NRI Institute of Technology, Vijayawada · Class
 
 ### 🏆 Hackathons & programs
 
-Gridlock Hackathon 2.0 (≈0.995 R² on traffic-demand prediction) · ET-AI 2026 semi-finalist · India Agentic AI Open Hackathon · AI for Bharat 2 · Microsoft Elevate Power BI internship · Gemini Student Ambassador shortlist
+· ET-AI 2026 semi-finalist · India Agentic AI Open Hackathon · AI for Bharat 2 · Microsoft Elevate Power BI internship 
 
 ---
 
@@ -65,7 +65,7 @@ Gridlock Hackathon 2.0 (≈0.995 R² on traffic-demand prediction) · ET-AI 2026
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=RaghuSasidhar&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghuSasidharis&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghuSasidhar&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 ---
