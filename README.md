@@ -1,31 +1,81 @@
-# 💫 About Me:
-# Hi there, I'm Raghu 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:1f6feb&height=180&section=header&text=Raghu%20Sasidhar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Generative%20AI%20Engineer%20%C2%B7%20AI%20Product%20Developer&descSize=16&descAlignY=58" width="100%" alt="header" />
 
-🎓 Third-year Computer Science student passionate about building AI-powered products.
+### 👋 Hi, I'm Raghu
 
-🚀 I'm a **vibe coder** who loves transforming ideas into functional products using modern AI tools and rapid development workflows.
+I build **end-to-end AI products** — agents, pipelines and the interfaces around them — aimed at real problems in **fintech** and **civic / public-good** systems.
 
-🎨 Passionate about **product design**, intuitive user experiences, and shipping projects that solve real problems.
-
-🛠️ I've built multiple AI-assisted projects, exploring everything from web applications to intelligent automation.
-
-🤝 I'm always open to collaborations, hackathons, open-source contributions, and exciting opportunities to build something meaningful together.
-
-> **Building. Learning. Experimenting. Shipping.**
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/Mamillapalli C S Raghu Sasidhar) ](https://www.linkedin.com/in/mamillapalli-c-s-raghu-sasidhar-29894b357/)
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RaghuSasidhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RaghuSasidhar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaghuSasidhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+B.Tech CSE (AI & ML) student at NRI Institute of Technology, Vijayawada · Class of 2028
 
 ---
-[![](https://komarev.com/ghpvc/?username=RaghuSasidhar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 What I work on
+
+- 🤖 **Agentic systems** — multi-agent pipelines (planner → writer → critic style) built with AutoGen, Microsoft Agent Framework and the NVIDIA NIM stack
+- 💹 **AI for finance** — spend intelligence, equity research copilots, RL-based trading research on NSE equities
+- 🏛️ **Civic tech** — land records, legal/judgment intelligence, career tools for first-generation job seekers
+- 🎨 **Product + design** — dark, cinematic UIs that make the demo land in the first ten seconds
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[VERIDIAN](#)** | Autonomous vendor-spend leakage recovery: audits invoices against contract baselines, flags duplicate bills and rate hikes, drafts negotiation playbooks and tracks recovered savings | Claude API, agent pipeline |
+| **[BrandPilot](#)** | Multi-agent marketing content system for Indian SMBs. Started as an AutoGen three-agent pipeline, rebuilt on Microsoft Agent Framework and the NVIDIA stack | AutoGen, MAF, NVIDIA NIM, Ollama |
+| **[Vichar2Karya](#)** | Judgment intelligence pipeline for court judgments, built for Karnataka's Centre for e-Governance (AI for Bharat 2) | React, FastAPI, Claude API, Firebase |
+| **[NetTwin](#)** | AI digital twin for data-center networks: GNN → LSTM → RL reroute policy with a Dijkstra fallback and a 5-sigma DDoS detector. The ML stages are simulated; the architecture is built to accept trained weights | React, WebSockets, SQLite, Python |
+| **[LandLine](#)** | SMS-based land-record verification for Andhra Pradesh and Telangana | — |
+| **[FIRSTGEN](#)** | D3.js career platform for first-generation job seekers (SDG 8 & 10) | D3.js |
+| **[DesignBrief.ai](#)** | Turns design inputs into structured briefs using Claude Vision | React, Node.js, Claude Vision |
+| **[MeshShare](#)** | Mesh-topology file sharing with a live chunk → relay → reassemble demo | Web |
+
+---
+
+### 📄 Research
+
+- **Hybrid Transformer–PPO framework for algorithmic trading** on NSE equities — deep reinforcement learning for financial markets
+- Currently exploring **hallucination and error attribution in LLM agents**
+
+---
+
+### 🏆 Hackathons & programs
+
+Gridlock Hackathon 2.0 (≈0.995 R² on traffic-demand prediction) · ET-AI 2026 semi-finalist · India Agentic AI Open Hackathon · AI for Bharat 2 · Microsoft Elevate Power BI internship · Gemini Student Ambassador shortlist
+
+---
+
+### 🛠️ Toolbox
+
+![Python](https://img.shields.io/badge/Python-0b0f19?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b0f19?style=for-the-badge&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0b0f19?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0b0f19?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Firebase](https://img.shields.io/badge/Firebase-0b0f19?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![D3.js](https://img.shields.io/badge/D3.js-0b0f19?style=for-the-badge&logo=d3dotjs&logoColor=F9A03C)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b0f19?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Power BI](https://img.shields.io/badge/Power_BI-0b0f19?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+
+**AI / agents:** Claude API · AutoGen · Microsoft Agent Framework · NVIDIA NIM & AgentIQ · Ollama
+**Learning now:** TypeScript · LangChain · LangGraph
+
+---
+
+### 📈 GitHub stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+---
+
+### 🤝 Let's connect
+
+Open to internships, collaborations and new paths in **GenAI engineering** and **fintech**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b0f19?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0b0f19&height=100&section=footer" width="100%" alt="footer" />
