@@ -22,12 +22,8 @@ B.Tech CSE (AI & ML) student at NRI Institute of Technology, Vijayawada · Class
 | Project | What it does | Stack |
 |---|---|---|
 | **[VERIDIAN](#)** | Autonomous vendor-spend leakage recovery: audits invoices against contract baselines, flags duplicate bills and rate hikes, drafts negotiation playbooks and tracks recovered savings | Claude API, agent pipeline |
-| **[BrandPilot](#)** | Multi-agent marketing content system for Indian SMBs. Started as an AutoGen three-agent pipeline, rebuilt on Microsoft Agent Framework and the NVIDIA stack | AutoGen, MAF, NVIDIA NIM, Ollama |
 | **[Vichar2Karya](#)** | Judgment intelligence pipeline for court judgments, built for Karnataka's Centre for e-Governance (AI for Bharat 2) | React, FastAPI, Claude API, Firebase |
 | **[NetTwin](#)** | AI digital twin for data-center networks: GNN → LSTM → RL reroute policy with a Dijkstra fallback and a 5-sigma DDoS detector. The ML stages are simulated; the architecture is built to accept trained weights | React, WebSockets, SQLite, Python |
-| **[LandLine](#)** | SMS-based land-record verification for Andhra Pradesh and Telangana | — |
-| **[FIRSTGEN](#)** | D3.js career platform for first-generation job seekers (SDG 8 & 10) | D3.js |
-| **[DesignBrief.ai](#)** | Turns design inputs into structured briefs using Claude Vision | React, Node.js, Claude Vision |
 | **[MeshShare](#)** | Mesh-topology file sharing with a live chunk → relay → reassemble demo | Web |
 
 ---
@@ -38,10 +34,15 @@ B.Tech CSE (AI & ML) student at NRI Institute of Technology, Vijayawada · Class
 - Currently exploring **hallucination and error attribution in LLM agents**
 
 ---
+###🧭 Interests & what I'm exploring
+-⚖️ Responsible AI — building AI systems that are trustworthy, transparent and safe to deploy
+-🧩 Other roles and careers in AI and tech — I'm actively exploring paths beyond my current focus
+-🧠 Psychology and cognitive science · 🎬 cinematic UI design · 🎵 music
 
+---
 ### 🏆 Hackathons & programs
 
-· ET-AI 2026 semi-finalist · India Agentic AI Open Hackathon · AI for Bharat 2 · Microsoft Elevate Power BI internship 
+· ET-AI 2026 semi-finalist · India Agentic AI Open Hackathon  · Microsoft Elevate Power BI internship 
 
 ---
 
