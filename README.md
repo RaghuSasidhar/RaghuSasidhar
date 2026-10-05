@@ -74,7 +74,7 @@ B.Tech CSE (AI & ML) student at NRI Institute of Technology, Vijayawada · Class
 
 Open to internships, collaborations and new paths in **GenAI engineering** and **fintech**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]((https://www.linkedin.com/in/mamillapalli-c-s-raghu-sasidhar-29894b357))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mamillapalli-c-s-raghu-sasidhar-29894b357)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0b0f19?style=for-the-badge&logo=vercel&logoColor=white)](https://raghusasidhar.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mamillapalliraghusasidhar@gmail.com)
 
