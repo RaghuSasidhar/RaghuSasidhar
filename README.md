@@ -64,8 +64,8 @@ Gridlock Hackathon 2.0 (≈0.995 R² on traffic-demand prediction) · ET-AI 2026
 ### 📈 GitHub stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RaghuSasidhar&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghuSasidharis&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 ---
@@ -74,8 +74,8 @@ Gridlock Hackathon 2.0 (≈0.995 R² on traffic-demand prediction) · ET-AI 2026
 
 Open to internships, collaborations and new paths in **GenAI engineering** and **fintech**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b0f19?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]((https://www.linkedin.com/in/mamillapalli-c-s-raghu-sasidhar-29894b357))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b0f19?style=for-the-badge&logo=vercel&logoColor=white)](https://raghusasidhar.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mamillapalliraghusasidhar@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0b0f19&height=100&section=footer" width="100%" alt="footer" />
