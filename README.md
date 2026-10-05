@@ -34,10 +34,12 @@ B.Tech CSE (AI & ML) student at NRI Institute of Technology, Vijayawada · Class
 - Currently exploring **hallucination and error attribution in LLM agents**
 
 ---
-###🧭 Interests & what I'm exploring
--⚖️ Responsible AI — building AI systems that are trustworthy, transparent and safe to deploy
--🧩 Other roles and careers in AI and tech — I'm actively exploring paths beyond my current focus
--🧠 Psychology and cognitive science · 🎬 cinematic UI design · 🎵 music
+
+### 🧭 Interests & what I'm exploring
+
+- ⚖️ **Responsible AI** — building AI systems that are trustworthy, transparent and safe to deploy
+- 🧩 **Other roles and careers in AI and tech** — actively exploring paths beyond my current focus
+- 🧠 Psychology and cognitive science · 🎬 cinematic UI design · 🎵 music
 
 ---
 ### 🏆 Hackathons & programs
